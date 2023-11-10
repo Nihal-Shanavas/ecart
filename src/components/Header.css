@@ -1,0 +1,65 @@
+span{
+    color: red;
+    font-size: 30px;
+}
+h{
+    font-family: 'Rubik Distressed', serif;; 
+    font-size: 15px;
+    color: rgb(12, 77, 114);
+
+}
+h3{
+    font-family: 'Abril Fatface', serif;
+}
+.sp2{
+    font-family: 'Bungee Inline', sans-serif;
+
+}
+h1{
+     
+        font-family: 'Kenia', sans-serif;
+        font-size: 53px !important;
+      
+      
+}
+.head1{
+    font-family: 'Chonburi', serif !important; 
+    font-size: 30px !important;
+    color: #045266 !important;
+}
+
+#d{
+transition: .5s ease-in-out;
+}
+#d:hover{
+    transform: scale(1.05);
+    box-shadow: 0 4px 8px 0 #779eb2 ;
+
+}
+.par1{
+    color: rgb(189, 0, 0) !important;
+    font-family: 'Jost', sans-serif;
+    font-size: large;
+}
+h4{
+    font-size: 20px !important;
+    font-weight: bolder;
+    font-family: 'Fjalla One', sans-serif;
+}
+.pro1{
+    font-family: 'Skranji',sans-serif !important;
+    color: #08547a;
+
+}
+h2{
+    font-size: 18px !important;
+}
+.btn1{
+    height: 40px;
+    width: 130px;
+}
+hr {
+    height: 1px; /* Adjust the height to make it thicker */
+    background-color: #08547a; /* Set the line color (black in this example) */
+    border: none; /* Remove the default border */
+  }
